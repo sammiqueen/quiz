@@ -1,0 +1,20 @@
+{% extends "template.njk" %}
+{% block content %}
+<div class="textblock">
+    <h1>{{ header }}</h1>
+
+    <div class="textblockHighlight">
+        {% for result in results %}
+        <h3>{{ result.question }}</h3>
+        <p>Ditt svar: {{ result.answer }}</p>
+        <p>Korrekt? {{ result.correct }}</p>
+        {% endfor %}
+
+        <h2>Du fick {{ correctAmount.length }} rätt svar av {{ results.length }} möjliga! Bra jobbat :D</h2>
+    </div>
+
+    <p>Klicka
+    <a href="/quiz/question">här</a>
+    för att gå till quizet</p>
+</div>
+{% endblock %}

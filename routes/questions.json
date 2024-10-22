@@ -1,0 +1,63 @@
+[
+        {
+            "id": "q1",
+            "text": "Vilken processnod är Intels senaste generation av CPUer (Intel Core Ultra) byggd på?",
+            "answers": ["TSMC N3B", "Intel 20A", "Samsung 4nm", "Intel 7"],
+            "correctAnswer": "TSMC N3B"
+        },
+        {
+            "id": "q2",
+            "text": "Nvidias nästa generation av GPUer (RTX 50XX) förväntas säljas för upp till...?",
+            "answers": ["$1500", "$2000", "$2500", "$3000"],
+            "correctAnswer": "$2500"
+        },
+        {
+            "id": "q3",
+            "text": "Vad är namnet på AMDs uppkommande CPU-arkitektur?",
+            "answers": ["Zen 5", "Zen 6", "NXT", "RDNA 3"],
+            "correctAnswer": "Zen 6"
+        },
+        {
+            "id": "q4",
+            "text": "Hur många pins har den standardiserade PWM-anslutningen till datorfläktar?",
+            "answers": [2, 5, 3, 4],
+            "correctAnswer": 4
+        },
+        {
+            "id": "q5",
+            "text": "Vad är den högsta nåbara överföringshastigheten i USB-C specifikationen?",
+            "answers": ["40 Gbps", "20 Gbps", "10 Gbps", "60 Gbps"],
+            "correctAnswer": "40 Gbps"
+        },
+        {
+            "id": "q6",
+            "text": "Vilket grafikkort sitter i \"den bra datorn\" i MakerSpace?",
+            "answers": ["RTX 2080 Ti", "RX 6700 XT", "RTX 3070", "ARC A770"],
+            "correctAnswer": "RTX 3070"
+        },
+        {
+            "id": "q7",
+            "text": "Hur många fläktar skickas med när du köper en Arctic Liquid Freezer II 360mm AIO?",
+            "answers": [6, 2, 3, 4],
+            "correctAnswer": 4
+        },
+        {
+            "id": "q8",
+            "text": "Vilket instruktionsset är unikt för Raspberry Pi Pico 2 jämfört med Raspberry Pi Pico 1?",
+            "answers": ["RISC-V", "CISC", "ARM", "x86"],
+            "correctAnswer": "RISC-V"
+        },
+        {
+            "id": "q9",
+            "text": "Vilket av följande alternativ är INTE en standardiserad DIMM-storlek för DDR5?",
+            "answers": ["5GB", "12GB", "16GB", "64GB"],
+            "correctAnswer": "12GB"
+        },
+        {
+            "id": "q10",
+            "text": "Hur många pins har AM5-sockeln?",
+            "answers": [1502, 1668, 1718, 1874],
+            "correctAnswer": 1718
+        }
+    
+]
