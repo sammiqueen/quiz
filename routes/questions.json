@@ -51,7 +51,7 @@
             "id": "q9",
             "text": "Vilket av följande alternativ är INTE en standardiserad DIMM-storlek för DDR5?",
             "answers": ["5GB", "12GB", "16GB", "64GB"],
-            "correctAnswer": "12GB"
+            "correctAnswer": "5GB"
         },
         {
             "id": "q10",
